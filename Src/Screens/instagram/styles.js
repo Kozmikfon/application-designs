@@ -105,7 +105,7 @@ export default StyleSheet.create({
   dont: {
     marginLeft: 15,
     fontSize: 20,
-    opacity: 0.5,
+    opacity: 0.6,
     color: 'black',
   },
   containopa: {
@@ -126,7 +126,7 @@ export default StyleSheet.create({
     backgroundColor: 'black',
     paddingVertical: 15,
     paddingHorizontal: 30,
-    borderRadius: 50,
+    borderRadius: 49,
   },
   buttonText: {
     fontSize: 36,
